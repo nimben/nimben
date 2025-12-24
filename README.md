@@ -1,4 +1,4 @@
-# Hi, I’m Nimmy Benny 👋  
+# Nimmy Benny here!
 
 ### From Crust to Core 🚀  
 I believe in building strong fundamentals first and learning by doing —  
