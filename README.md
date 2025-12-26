@@ -45,14 +45,4 @@ moving step by step from basics to deeper concepts.
   - Compiler / low-level concepts
   - Experimental and academic work  
 
----
 
-## 🎯 What I Focus On
-
-- Concept clarity over shortcuts  
-- Learning by building small things  
-- Understanding *why* something works  
-
----
-
-⭐ Learning in public, one repo at a time.
