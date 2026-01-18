@@ -14,7 +14,13 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=nimben&show_icons=true&theme=tokyonight" height="150"/> -->
   <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nimben&show_icons=true&theme=tokyonight)
   ![GitHub Streak](https://streak-stats.demolab.com?user=nimben&theme=tokyonight) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimben&theme=tokyonight" height="150"/>
+  
+
+
+  <img src="https://github-readme-stats.vercel.app/api?username=nimben&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=nimben&theme=tokyonight" height="150"/>
+
+
 </p>
 
 ---
