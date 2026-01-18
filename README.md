@@ -2,8 +2,8 @@
 
 <h1 align="center"><b>Nimmy Benny here!🍁</b></h1>
 <p align="center">
-  Creative Developer | AI Innovator | Tech Explorer 💡<br>
-  Blending logic and imagination to build meaningful digital experiences.
+  Developer | C++ & DSA | Python | Machine Learning Basics <br>
+  Learning deeply and building meaningful digital solutions.
 </p>
 
 ---
