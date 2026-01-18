@@ -1,48 +1,30 @@
-# Nimmy Benny here!
+<!-- ✨ Nim's Professional GitHub Profile ✨ -->
 
-### From Crust to Core 🚀  
-I believe in building strong fundamentals first and learning by doing —  
-moving step by step from basics to deeper concepts.
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 Computer Science student  
-- 🧠 Interested in **problem solving, AI, and systems**
-- 🔍 Exploring Machine Learning, algorithms, and real-world mini projects  
-- 🛠️ Enjoy breaking problems down and building simple solutions  
+<h1 align="center"><b>Nimmy Benny here!🍁</b></h1>
+<p align="center">
+  Creative Developer | AI Innovator | Tech Explorer 💡<br>
+  Blending logic and imagination to build meaningful digital experiences.
+</p>
 
 ---
 
-## 🛠️ Tech Stack
 
-- **Languages:** Python, C, C++  
-- **Machine Learning & AI:**  
-  NumPy, Pandas, Scikit-learn (basics)  
-- **CS & Problem Solving:**  
-  Algorithms, logic building, puzzles  
-- **Tools & Platforms:**  
-  GitHub, Google Colab, Jupyter Notebook  
+### 🧩 Stats & Contributions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nimben&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimben&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
-## 📂 What You’ll Find Here
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/nimmy-benny"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="mailto:nimmyx19@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+  <a href="https://github.com/nimben"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
+</p>
 
-- 🧩 **Problem Solving & Logic**
-  - Pattern problems
-  - Puzzle-based AI experiments  
+---
 
-- 🤖 **AI & ML**
-  - Mark prediction (regression demo)
-  - Salary prediction (multi-feature ML project)  
-
-- 🛠️ **Mini Projects**
-  - Small practical projects
-  - Learning-focused implementations  
-
-- ⚙️ **Systems & Core CS**
-  - Compiler / low-level concepts
-  - Experimental and academic work  
-
+<p align="center">✨ From crust to core. ✨</p>
 
