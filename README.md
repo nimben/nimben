@@ -11,11 +11,9 @@
 
 ### 🧩 Stats & Contributions
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimben&show_icons=true&theme=tokyonight" height="150"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=nimben&show_icons=true&theme=tokyonight" height="150"/> -->
   <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nimben&show_icons=true&theme=tokyonight)
   ![GitHub Streak](https://streak-stats.demolab.com?user=nimben&theme=tokyonight) -->
-
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimben&theme=tokyonight" height="150"/>
 </p>
 
@@ -23,6 +21,7 @@
 
 ![Snake animation](https://github.com/nimben/nimben/blob/output/github-contribution-grid-snake-dark.svg)
 
+---
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nimmy-benny"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
