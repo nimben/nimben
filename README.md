@@ -27,7 +27,9 @@
   <a href="https://www.linkedin.com/in/nimmy-benny"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
   <a href="mailto:nimmyx19@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
   <a href="https://github.com/nimben"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
-  <a href="https://leetcode.com/u/Niben"><img src="https://skillicons.dev/icons?i=leetcode" width="40" /></a>
+  <a href="https://leetcode.com/u/Niben/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40" />
+  </a>
 </p>
 
 ---
