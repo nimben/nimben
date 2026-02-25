@@ -22,7 +22,7 @@
 ![Snake animation](https://github.com/nimben/nimben/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
-### 🌐 Connect With Me
+<!--### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nimmy-benny"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
   <a href="mailto:nimmyx19@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
@@ -31,7 +31,7 @@
   </a>
 </p>
 
----
+--- -->
 
 <p align="center">✨ From crust to core. ✨</p>
 
