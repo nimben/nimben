@@ -3,7 +3,7 @@
 <h1 align="center"><b>Nimmy Benny!🍁</b></h1>
 <p align="center">
   Developer | C++ & DSA | Python | Machine Learning Basics <br>
-  Learning deeply and building meaningful digital solutions.
+  " I think, therefore I am ".
 </p>
 
 ---
