@@ -1,6 +1,6 @@
 <!-- ✨ Nim's Professional GitHub Profile ✨ -->
 
-<h1 align="center"><b>Nimmy Benny!🍁</b></h1>
+<h1 align="center"><b>N!MMY BENNY</b></h1>
 <p align="center">
   Developer | C++ & DSA | Python | Machine Learning Basics <br>
   " I think, therefore I am "
